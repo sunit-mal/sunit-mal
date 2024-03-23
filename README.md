@@ -36,11 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-
-  <img src="https://img.icons8.com/color/48/000000/classroom.png" height="30" alt="OOP Icon" style="margin-right: 12px;" />
-  <!-- Add DSA icon -->
-  <img src="https://img.icons8.com/color/48/000000/database-structure.png" height="30" alt="DSA Icon" style="margin-right: 12px;" />
-
 </div>
 
 ###
