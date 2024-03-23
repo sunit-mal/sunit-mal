@@ -82,16 +82,16 @@
 
   <div>
     <a href="https://github.com/sunit-mal/CDC-Cell.git" target="_blank">
-      <h4 style="margin-bottom: 10px;">CDC Cell Website</h4>
+      <h4 style="margin-bottom: 10px;">CDC Cell Website</h4></a>
       <p style="margin-bottom: 10px;"><strong>Description:</strong> CDC Cell is a secure web-based application facilitating skill development and job placement services. It features user authentication and enables users to share skills, contact info, and resumes, connecting students/alumni with other.</p>
       <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, React (JavaScript framework) frontend.</p>
-    </a>
+    
   </div>
 
   <div>
     <a href="" target="_blank" style="cursor:pointer">
-      <h4 style="margin-bottom: 10px;">Hand Craft Website</h4></a>
-    
+      <h4 style="margin-bottom: 10px;">Hand Craft Website</h4>
+      </a>
       <p style="margin-bottom: 10px;"><strong>Description:</strong> Hand Craft is a sophisticated ectomere platform designed to facilitate the buying and selling of handcrafted products. The platform provides a seamless experience for both sellers and buyers, offering a wide range of features to ensure smooth transactions and customer satisfaction.</p>
       <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, React (JavaScript Framework) frontend.</p>
     
