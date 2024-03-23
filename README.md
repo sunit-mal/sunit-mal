@@ -10,7 +10,6 @@
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/110469858?s=400&u=0410eb5c28485655e7555ed0e7ce4f72af9fa481&v=4" style="border-radius: 8px; margin-left: 20px; z-index: 999;" />
 
-
 ###
 
 <div align="left">
@@ -58,21 +57,43 @@
   <h3 style="color: #333;">Academic Projects</h3>
 
   <div style="margin-bottom: 20px;">
-    <h4 style="margin-bottom: 10px;">Code Arena</h4>
-    <p style="margin-bottom: 10px;"><strong>Description:</strong> Code Arena provides an environment to execute programs in various languages with a built-in online compiler.</p>
-    <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Python, Django Backend, MVT Architecture, SQLite Database, HTML, CSS, JavaScript frontend</p>
+    <a href="https://github.com/sunit-mal/Code_Arena.git">
+      <h4 style="margin-bottom: 10px;">Code Arena</h4>
+      <p style="margin-bottom: 10px;"><strong>Description:</strong> Code Arena provides an environment to execute programs in various languages with a built-in online compiler.</p>
+      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Python, Django Backend, MVT Architecture, SQLite Database, HTML, CSS, JavaScript frontend</p>
+    </a>
   </div>
 
   <div style="margin-bottom: 20px;">
-    <h4 style="margin-bottom: 10px;">HAAT Farmer Portfolio</h4>
-    <p style="margin-bottom: 10px;"><strong>Description:</strong> HAAT Farmer Portfolio aims to empower farmers by connecting them directly with consumers, eliminating intermediaries, and providing easy access to high-quality mustard produce.</p>
-    <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Python, Django Backend, MVT Architecture, SQLite Database, HTML, CSS, JavaScript frontend</p>
+    <a href="https://github.com/sunit-mal/Haat-Farmer-Portfolio.git">
+      <h4 style="margin-bottom: 10px;">HAAT Farmer Portfolio</h4>
+      <p style="margin-bottom: 10px;"><strong>Description:</strong> HAAT Farmer Portfolio aims to empower farmers by connecting them directly with consumers, eliminating intermediaries, and providing easy access to high-quality mustard produce.</p>
+      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Python, Django Backend, MVT Architecture, SQLite Database, HTML, CSS, JavaScript frontend</p>
+    </a>
   </div>
 
   <div>
-    <h4 style="margin-bottom: 10px;">HALLODOC Pharmacy Website</h4>
-    <p style="margin-bottom: 10px;"><strong>Description:</strong> HALLODOC provides a pharmacy website for shopkeepers to manage inventory and generate invoices for medicine sales.</p>
-    <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, JSP, CSS, JavaScript</p>
+    <a href="https://github.com/sunit-mal/PharmacyWebsite.git">
+      <h4 style="margin-bottom: 10px;">HALLODOC Pharmacy Website</h4>
+      <p style="margin-bottom: 10px;"><strong>Description:</strong> HALLODOC provides a pharmacy website for shopkeepers to manage inventory and generate invoices for medicine sales.</p>
+      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, JSP, CSS, JavaScript</p>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://github.com/sunit-mal/CDC-Cell.git">
+      <h4 style="margin-bottom: 10px;">CDC Cell Website</h4>
+      <p style="margin-bottom: 10px;"><strong>Description:</strong> CDC Cell is a secure web-based application facilitating skill development and job placement services. It features user authentication and enables users to share skills, contact info, and resumes, connecting students/alumni with other.</p>
+      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, React (JavaScript framework) frontend.</p>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://github.com/sunit-mal/Project_HandCraft.git">
+      <h4 style="margin-bottom: 10px;">Hand Craft Website</h4>
+      <p style="margin-bottom: 10px;"><strong>Description:</strong> Hand Craft is a sophisticated ectomere platform designed to facilitate the buying and selling of handcrafted products. The platform provides a seamless experience for both sellers and buyers, offering a wide range of features to ensure smooth transactions and customer satisfaction.</p>
+      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, React (JavaScript Framework) frontend.</p>
+    </a>
   </div>
 </div>
 
