@@ -89,9 +89,9 @@
   </div>
 
   <div>
-    <a href="https://github.com/sunit-mal/Project_HandCraft.git" target="_blank">
+    <a href="https://github.com/sunit-mal/Project_HandCraft.git" target="_blank" style="cursor:pointer">
       <h4 style="margin-bottom: 10px;">Hand Craft Website</h4>
-      </a>
+    </a>
       <p style="margin-bottom: 10px;"><strong>Description:</strong> Hand Craft is a sophisticated ectomere platform designed to facilitate the buying and selling of handcrafted products. The platform provides a seamless experience for both sellers and buyers, offering a wide range of features to ensure smooth transactions and customer satisfaction.</p>
       <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, React (JavaScript Framework) frontend.</p>
     
