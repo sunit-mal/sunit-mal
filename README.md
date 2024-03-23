@@ -2,7 +2,14 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/110469858?s=400&u=0410eb5c28485655e7555ed0e7ce4f72af9fa481&v=4"  />
+<p>
+  I am a programmer skilled in various programming languages such as Java, Python, C#,  and C++. I possess a strong ability to learn and adapt quickly to new technologies and programming languages. My goal is to continuously enhance my problem-solving skills and become an expert coder.
+</p>
+
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/110469858?s=400&u=0410eb5c28485655e7555ed0e7ce4f72af9fa481&v=4" style="border-radius: 8px; margin-left: 20px; z-index: 999;" />
+
 
 ###
 
@@ -29,7 +36,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+
+  <img src="https://img.icons8.com/color/48/000000/classroom.png" height="30" alt="OOP Icon" style="margin-right: 12px;" />
+  <!-- Add DSA icon -->
+  <img src="https://img.icons8.com/color/48/000000/database-structure.png" height="30" alt="DSA Icon" style="margin-right: 12px;" />
+
 </div>
 
 ###
@@ -47,3 +58,58 @@
 </div>
 
 ###
+
+<div style="background-color: #fff; padding: 20px; margin: 20px auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <h3 style="color: #333;">Academic Projects</h3>
+
+  <div style="margin-bottom: 20px;">
+    <h4 style="margin-bottom: 10px;">Code Arena</h4>
+    <p style="margin-bottom: 10px;"><strong>Description:</strong> Code Arena provides an environment to execute programs in various languages with a built-in online compiler.</p>
+    <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Python, Django Backend, MVT Architecture, SQLite Database, HTML, CSS, JavaScript frontend</p>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <h4 style="margin-bottom: 10px;">HAAT Farmer Portfolio</h4>
+    <p style="margin-bottom: 10px;"><strong>Description:</strong> HAAT Farmer Portfolio aims to empower farmers by connecting them directly with consumers, eliminating intermediaries, and providing easy access to high-quality mustard produce.</p>
+    <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Python, Django Backend, MVT Architecture, SQLite Database, HTML, CSS, JavaScript frontend</p>
+  </div>
+
+  <div>
+    <h4 style="margin-bottom: 10px;">HALLODOC Pharmacy Website</h4>
+    <p style="margin-bottom: 10px;"><strong>Description:</strong> HALLODOC provides a pharmacy website for shopkeepers to manage inventory and generate invoices for medicine sales.</p>
+    <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, JSP, CSS, JavaScript</p>
+  </div>
+</div>
+
+###
+
+<div style="background-color: #fff; padding: 20px; margin: 20px auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <h3 style="color: #333;">Education</h3>
+  
+  <div style="margin-bottom: 20px;">
+    <strong>B. Tech in Computer Science</strong><br>
+    <ul style="list-style: none; padding: 0; margin-top: 0;">
+      <li>Gargi Memorial Institute of Technology, Baruipur, Kolkata, 700144</li>
+      <li>July 2020 - July 2024</li>
+      <li>CGPA: 9.05</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <strong>Higher Secondary</strong><br>
+    <ul style="list-style: none; padding: 0; margin-top: 0;">
+      <li>Panchberia Ramchandra Smriti Siksha Mandir, Panchberia, Paschim Medinipur, West Bengal 721146</li>
+      <li>May 2019 - February 2020</li>
+      <li>Percentage: 80.6%</li>
+    </ul>
+  </div>
+
+  <div>
+    <strong>Secondary</strong><br>
+    <ul style="list-style: none; padding: 0; margin-top: 0;">
+      <li>Panchberia Ramchandra Smriti Siksha Mandir, Panchberia, Paschim Medinipur, West Bengal 721146</li>
+      <li>May 2017 - February 2018</li>
+      <li>Percentage: 70%</li>
+    </ul>
+  </div>
+</div>
