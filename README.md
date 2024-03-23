@@ -57,11 +57,9 @@
   <h3 style="color: #333;">Academic Projects</h3>
 
   <div style="margin-bottom: 20px;">
-    <a href="https://github.com/sunit-mal/Code_Arena.git" target="_blank">
-      <h4 style="margin-bottom: 10px;">Code Arena</h4>
+      <h4 style="margin-bottom: 10px;">[Code Arena](https://github.com/sunit-mal/Code_Arena.git)</h4>
       <p style="margin-bottom: 10px;"><strong>Description:</strong> Code Arena provides an environment to execute programs in various languages with a built-in online compiler.</p>
       <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Python, Django Backend, MVT Architecture, SQLite Database, HTML, CSS, JavaScript frontend</p>
-    </a>
   </div>
 
   <div style="margin-bottom: 20px;">
@@ -89,7 +87,7 @@
   </div>
 
   <div>
-    <a href="https://github.com/sunit-mal/Project_HandCraft.git" target="_blank" style="cursor:pointer">
+    <a href="" target="_blank" style="cursor:pointer">
       <h4 style="margin-bottom: 10px;">Hand Craft Website</h4>
     </a>
       <p style="margin-bottom: 10px;"><strong>Description:</strong> Hand Craft is a sophisticated ectomere platform designed to facilitate the buying and selling of handcrafted products. The platform provides a seamless experience for both sellers and buyers, offering a wide range of features to ensure smooth transactions and customer satisfaction.</p>
