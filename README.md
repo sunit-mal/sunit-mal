@@ -102,7 +102,8 @@
       <h4 style="margin-bottom: 10px;">Django Access Controller</h4>
     </a>
       <p style="margin-bottom: 10px;"><strong>Description:</strong> Django Access Controller is a Visual Studio Code extension that provides a set of commands to manage Django projects easily.</p>
-      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java Script ![imagePreview](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)</p>
+      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java Script <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" height="30" alt="java logo"  />
+      </p>
     
   </div>
 </div>
