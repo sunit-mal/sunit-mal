@@ -54,63 +54,6 @@
 ###
 
 <div style="background-color: #fff; padding: 20px; margin: 20px auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <h3 style="color: #333;">Academic Projects</h3>
-
-  <div style="margin-bottom: 20px;">
-    <a href="https://github.com/sunit-mal/Code_Arena.git" target="_blank"> 
-      <h4 style="margin-bottom: 10px;">Code Arena</h4></a>
-      <p style="margin-bottom: 10px;"><strong>Description:</strong> Code Arena provides an environment to execute programs in various languages with a built-in online compiler.</p>
-      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Python, Django Backend, MVT Architecture, SQLite Database, HTML, CSS, JavaScript frontend</p>
- 
-  </div>
-
-  <div style="margin-bottom: 20px;">
-    <a href="https://github.com/sunit-mal/Haat-Farmer-Portfolio.git" target="_blank"> 
-      <h4 style="margin-bottom: 10px;">HAAT Farmer Portfolio</h4></a>
-      <p style="margin-bottom: 10px;"><strong>Description:</strong> HAAT Farmer Portfolio aims to empower farmers by connecting them directly with consumers, eliminating intermediaries, and providing easy access to high-quality mustard produce.</p>
-      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Python, Django Backend, MVT Architecture, SQLite Database, HTML, CSS, JavaScript frontend</p>
-   
-  </div>
-
-  <div>
-    <a href="https://github.com/sunit-mal/PharmacyWebsite.git" target="_blank">
-      <h4 style="margin-bottom: 10px;">HALLODOC Pharmacy Website</h4></a>
-      <p style="margin-bottom: 10px;"><strong>Description:</strong> HALLODOC provides a pharmacy website for shopkeepers to manage inventory and generate invoices for medicine sales.</p>
-      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, JSP, CSS, JavaScript</p>
-    
-  </div>
-
-  <div>
-    <a href="https://github.com/sunit-mal/CDC-Cell.git" target="_blank">
-      <h4 style="margin-bottom: 10px;">CDC Cell Website</h4>
-      <p style="margin-bottom: 10px;"><strong>Description:</strong> CDC Cell is a secure web-based application facilitating skill development and job placement services. It features user authentication and enables users to share skills, contact info, and resumes, connecting students/alumni with other.</p>
-      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, React (JavaScript framework) frontend.</p>
-    </a>
-  </div>
-
-  <div>
-    <a href="" target="_blank" style="cursor:pointer">
-      <h4 style="margin-bottom: 10px;">Hand Craft Website</h4>
-    </a>
-      <p style="margin-bottom: 10px;"><strong>Description:</strong> Hand Craft is a sophisticated ectomere platform designed to facilitate the buying and selling of handcrafted products. The platform provides a seamless experience for both sellers and buyers, offering a wide range of features to ensure smooth transactions and customer satisfaction.</p>
-      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java, Spring Boot Backend, MVC Architecture, MySQL Database, React (JavaScript Framework) frontend.</p>
-    
-  </div>
-  
-  <div>
-    <a href="https://github.com/sunit-mal/django-access-controller.git" target="_blank">
-      <h4 style="margin-bottom: 10px;">Django Access Controller</h4>
-    </a>
-      <p style="margin-bottom: 10px;"><strong>Description:</strong> Django Access Controller is a Visual Studio Code extension that provides a set of commands to manage Django projects easily.</p>
-      <p style="margin-bottom: 10px;"><strong>Tech Stack:</strong> Java Script <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" height="12" alt="JavaScript logo"  />
-      </p>
-    
-  </div>
-</div>
-
-###
-
-<div style="background-color: #fff; padding: 20px; margin: 20px auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <h3 style="color: #333;">Education</h3>
   
   <div style="margin-bottom: 20px;">
