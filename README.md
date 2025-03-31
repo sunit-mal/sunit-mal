@@ -29,7 +29,7 @@
 </div> -->
 
 
-<div style="display: flex; justify-content:space-between ; flex-direction: row; flex-wrap: nowrap;">
+<div  align="center" style="display: flex; justify-content:space-between ; flex-direction: row; flex-wrap: nowrap;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunit-mal&theme=outrun&hide_border=false" alt="sunit-mal" width="45%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunit-mal&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="sunit-mal" width="45%" />
 </div>
