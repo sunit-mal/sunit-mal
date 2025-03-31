@@ -12,7 +12,7 @@ Highly motivated Java Spring Boot developer with 1 year of experience. Passionat
 ---
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=sunit-mal&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sunit-mal&theme=default&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sunit-mal&theme=default&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunit-mal&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
