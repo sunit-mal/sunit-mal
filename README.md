@@ -33,8 +33,8 @@
 ---
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunit-mal&show_icons=true&locale=en&layout=compact" alt="sunit-mal" weight="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sunit-mal&show_icons=true&locale=en" alt="sunit-mal" weight="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunit-mal&show_icons=true&locale=en&layout=compact" alt="sunit-mal" weight="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sunit-mal&show_icons=true&locale=en" alt="sunit-mal" weight="45%"/>
 </div>
 
 <p align="center"> 
