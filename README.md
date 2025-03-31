@@ -17,7 +17,7 @@ Highly motivated Java Spring Boot developer with 1 year of experience. Passionat
 
 ---
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=sunit-mal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=sunit-mal&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
