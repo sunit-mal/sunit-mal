@@ -50,36 +50,3 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<div style="background-color: #fff; padding: 20px; margin: 20px auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <h3 style="color: #333;">Education</h3>
-  
-  <div style="margin-bottom: 20px;">
-    <strong>B. Tech in Computer Science</strong><br>
-    <ul style="list-style: none; padding: 0; margin-top: 0;">
-      <li>Gargi Memorial Institute of Technology, Baruipur, Kolkata, 700144</li>
-      <li>July 2020 - July 2024</li>
-      <li>CGPA: 9.05</li>
-    </ul>
-  </div>
-
-  <div style="margin-bottom: 20px;">
-    <strong>Higher Secondary</strong><br>
-    <ul style="list-style: none; padding: 0; margin-top: 0;">
-      <li>Panchberia Ramchandra Smriti Siksha Mandir, Panchberia, Paschim Medinipur, West Bengal 721146</li>
-      <li>May 2019 - February 2020</li>
-      <li>Percentage: 80.6%</li>
-    </ul>
-  </div>
-
-  <div>
-    <strong>Secondary</strong><br>
-    <ul style="list-style: none; padding: 0; margin-top: 0;">
-      <li>Panchberia Ramchandra Smriti Siksha Mandir, Panchberia, Paschim Medinipur, West Bengal 721146</li>
-      <li>May 2017 - February 2018</li>
-      <li>Percentage: 70%</li>
-    </ul>
-  </div>
-</div>
