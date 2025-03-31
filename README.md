@@ -28,12 +28,10 @@
     <img align="left" height="150" src="https://avatars.githubusercontent.com/u/110469858?s=400&u=0410eb5c28485655e7555ed0e7ce4f72af9fa481&v=4" style="border-radius: 8px; margin-right: 20px;" />
 </div> -->
 
----
 
 <div style="display: flex; justify-content:space-between ; flex-direction: row; flex-wrap: nowrap;">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=sunit-mal&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="sunit-mal" width="30%" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunit-mal&theme=outrun&hide_border=false" alt="sunit-mal" width="40%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunit-mal&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="sunit-mal" width="40%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunit-mal&theme=outrun&hide_border=false" alt="sunit-mal" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunit-mal&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="sunit-mal" width="45%" />
 </div>
 
 <p align="center"> 
