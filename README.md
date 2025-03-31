@@ -3,7 +3,7 @@
 ###
 
 <p>
-  I am a programmer skilled in various programming languages such as Java, Python, C#,  and C++. I possess a strong ability to learn and adapt quickly to new technologies and programming languages. My goal is to continuously enhance my problem-solving skills and become an expert coder.
+  Highly motivated Java Spring Boot developer with 1 year of experience. Passionate about building scalable applications with a strong foundation in backend development, REST APIs, and database management. Continuously learning and upskilling to stay ahead in the evolving tech landscape.
 </p>
 
 ###
@@ -38,13 +38,13 @@
 </div>
 
 ###
+
 <div align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunit-mal&show_icons=true&locale=en&layout=compact" alt="sunit-mal" /></p>
-
-<p>&nbsp;<img align="leftt" src="https://github-readme-stats.vercel.app/api?username=sunit-mal&show_icons=true&locale=en" alt="sunit-mal" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunit-mal" alt="sunit-mal" /></a> </p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunit-mal&show_icons=true&locale=en&layout=compact" alt="sunit-mal" /></p>
+  <p>&nbsp;<img align="leftt" src="https://github-readme-stats.vercel.app/api?username=sunit-mal&show_icons=true&locale=en" alt="sunit-mal" /></p>
+  <p align="left"> <a href="https://github.com/sunit-mal"><img src="https://github-profile-trophy.vercel.app/?username=sunit-mal" alt="sunit-mal" /></a></p>
 </div>
+
 ###
 
 <div align="left">
