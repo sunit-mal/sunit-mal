@@ -45,8 +45,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunit-mal" alt="sunit-mal" /></a> </p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sunit-mal" alt="sunit-mal" /></a> </p>
-
 ###
 
 <div align="left">
