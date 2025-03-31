@@ -39,6 +39,14 @@
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunit-mal&show_icons=true&locale=en&layout=compact" alt="sunit-mal" /></p>
+
+<p>&nbsp;<img align="leftt" src="https://github-readme-stats.vercel.app/api?username=sunit-mal&show_icons=true&locale=en" alt="sunit-mal" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunit-mal" alt="sunit-mal" /></a> </p>
+
+###
+
 <div align="left">
   <a href="sunitmal1832002@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
