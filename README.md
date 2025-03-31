@@ -30,10 +30,10 @@
 
 ---
 
-<div style="display: flex; justify-content: center; flex-direction: row; flex-wrap: nowrap;">
+<div style="display: flex; justify-content:space-between ; flex-direction: row; flex-wrap: nowrap;">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=sunit-mal&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="sunit-mal" width="30%" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunit-mal&theme=outrun&hide_border=false" alt="sunit-mal" width="30%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunit-mal&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="sunit-mal" width="30%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunit-mal&theme=outrun&hide_border=false" alt="sunit-mal" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunit-mal&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="sunit-mal" width="40%" />
 </div>
 
 <p align="center"> 
