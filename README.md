@@ -8,11 +8,15 @@
 
 ---
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/110469858?s=400&u=0410eb5c28485655e7555ed0e7ce4f72af9fa481&v=4" style="border-radius: 8px; margin-left: 20px; z-index: 999;" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <img align="left" height="150" src="https://avatars.githubusercontent.com/u/110469858?s=400&u=0410eb5c28485655e7555ed0e7ce4f72af9fa481&v=4" style="border-radius: 8px; margin-right: 20px;" />
+  </div>
+</div>
 
 ---
 
-<div align="left">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
@@ -28,21 +32,20 @@
 
 ---
 
-<div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunit-mal&show_icons=true&locale=en&layout=compact" alt="sunit-mal" />
-  <br/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sunit-mal&show_icons=true&locale=en" alt="sunit-mal" />
-  <br/>
-  <p align="left"> 
-    <a href="https://github.com/sunit-mal">
-      <img src="https://github-profile-trophy.vercel.app/?username=sunit-mal" alt="sunit-mal" />
-    </a>
-  </p>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunit-mal&show_icons=true&locale=en&layout=compact" alt="sunit-mal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sunit-mal&show_icons=true&locale=en" alt="sunit-mal" />
 </div>
+
+<p align="center"> 
+  <a href="https://github.com/sunit-mal">
+    <img src="https://github-profile-trophy.vercel.app/?username=sunit-mal" alt="sunit-mal" />
+  </a>
+</p>
 
 ---
 
-<div align="left">
+<div align="center">
   <a href="mailto:sunitmal1832002@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
